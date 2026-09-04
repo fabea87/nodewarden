@@ -1,0 +1,7 @@
+- name: Sync Upstream
+  uses: zhangnew/sync-upstream@v1
+  with:
+    upstream: shuaiplus/nodewarden
+    upstream-branch: main
+    branch: main
+
